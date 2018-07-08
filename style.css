@@ -9,3 +9,17 @@
 		url('//cdn.rawgit.com/soke91/fonts/master/fonts/BM-JUA/BM-JUA.ttf') format('truetype');
 
 }
+
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.eot');
+  src: local('Lato Regular'), local('Lato-Regular'),
+       url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.eot?#iefix') format('embedded-opentype'), 
+       url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.woff2') format('woff2'), 
+       url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.woff') format('woff'),
+       url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.ttf') format('truetype'), 
+       url('//cdn.rawgit.com/soke91/fonts/master/fonts/LATO/lato-v14-latin-regular.svg#Lato') format('svg'); 
+}
