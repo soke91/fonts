@@ -2,9 +2,9 @@
 	font-family: 'BM JUA';
 	font-weight: normal;
 	font-style: normal;
-	src: url('/fonts/BM-JUA.eot');
-	src: url('/fonts/BM-JUA.eot?#iefix') format('embedded-opentype'),
-		url('/fonts/BM-JUA.woff') format('woff'),
-		url('/fonts/BM-JUA.svg#BM-JUA') format('svg'),
-		url('/fonts/BM-JUA.ttf') format('truetype');
+	src: url('/soke91/fonts/tree/master/fonts/BM-JUA.eot');
+	src: url('/soke91/fonts/tree/master/fonts/BM-JUA.eot?#iefix') format('embedded-opentype'),
+		url('/soke91/fonts/tree/master/fonts/BM-JUA.woff') format('woff'),
+		url('/soke91/fonts/tree/master/fonts/BM-JUA.svg#BM-JUA') format('svg'),
+		url('/soke91/fonts/tree/master/fonts/BM-JUA.ttf') format('truetype');
 }
